@@ -21,6 +21,7 @@ Upon accessing the application, users will be greeted with a homepage displaying
 
 The application also includes a navigation bar that allows users to navigate between different sections of the website, such as the product list and footer. The footer section provides additional information about the company and allows users to subscribe to the newsletter.
 <img src="https://github.com/eozkanch/MY-AUTO-BAG/blob/main/public/images/app2.jpeg"  witdth ="400px">
+
 <h3>Technologies Used</h3>
 
 React
@@ -30,6 +31,7 @@ MUI
 Tailwind CSS
 
 <img src="https://github.com/eozkanch/MY-AUTO-BAG/blob/main/public/images/app3.jpeg"  witdth ="400px">
+
 <h3>Contributors</h3>
 
 Yavuz Selim CELIK
@@ -37,7 +39,6 @@ Kamuran OZKAN
 A.Halide KARADAG
 Fatih ARZU
 Ebubekir OZKAN
-<<<<<<< HEAD
 
-=======
->>>>>>> f16f59b950cf87606924a593630ec01dffe2c935
+
+
