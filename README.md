@@ -1,5 +1,5 @@
 <h1>Project Title</h1>
-<img src="/My Auto Bag/my-app/public/images/app1.jpeg"  witdth ="400px">
+<img src="https://github.com/eozkanch/MY-AUTO-BAG/blob/main/public/images/app1.jpeg"  witdth ="400px">
 
 <h2>Auto Bag</h2>
 
@@ -20,7 +20,7 @@ Usage
 Upon accessing the application, users will be greeted with a homepage displaying the available luxury bags. They can browse through the bags, view detailed information about each bag, and add their desired bags to the cart for purchase.
 
 The application also includes a navigation bar that allows users to navigate between different sections of the website, such as the product list and footer. The footer section provides additional information about the company and allows users to subscribe to the newsletter.
-<img src="/My Auto Bag/my-app/public/images/app2.jpeg"  witdth ="400px">
+<img src="https://github.com/eozkanch/MY-AUTO-BAG/blob/main/public/images/app2.jpeg"  witdth ="400px">
 <h3>Technologies Used</h3>
 
 React
@@ -29,7 +29,7 @@ Next.js
 MUI 
 Tailwind CSS
 
-<img src="/My Auto Bag/my-app/public/images/app3.jpeg"  witdth ="400px">
+<img src="https://github.com/eozkanch/MY-AUTO-BAG/blob/main/public/images/app3.jpeg"  witdth ="400px">
 <h3>Contributors</h3>
 
 Yavuz Selim CELIK
