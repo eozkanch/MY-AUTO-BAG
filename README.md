@@ -1,7 +1,7 @@
-<h1>Project Title</h1>
+<h1>Auto Bag</h1>
 <img src="https://github.com/eozkanch/MY-AUTO-BAG/blob/main/public/images/app1.jpeg"  witdth ="400px">
 
-<h2>Auto Bag</h2>
+
 
 <h3>Description</h3>
 
