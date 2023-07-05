@@ -1,35 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Project Title</h1>
+<img src="/My Auto Bag/my-app/public/images/app1.jpeg"  witdth ="400px">
 
-## Getting Started
+<h2>Auto Bag</h2>
 
-First, run the development server:
+<h3>Description</h3>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Auto Bag is a web application for showcasing luxury bags of different brands. It provides users with a platform to browse and explore various  bag options and make a purchase. The application is built using React and utilizes React Bootstrap for styling.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h3>Installation</h3>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+To run the application locally, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Clone the repository to your local machine.
+Install the required dependencies by running the command npm install.
+Start the development server by running the command npm start.
+Open your web browser and navigate to http://localhost:3000 to access the application.
+Usage
 
-## Learn More
+Upon accessing the application, users will be greeted with a homepage displaying the available luxury bags. They can browse through the bags, view detailed information about each bag, and add their desired bags to the cart for purchase.
 
-To learn more about Next.js, take a look at the following resources:
+The application also includes a navigation bar that allows users to navigate between different sections of the website, such as the product list and footer. The footer section provides additional information about the company and allows users to subscribe to the newsletter.
+<img src="/My Auto Bag/my-app/public/images/app2.jpeg"  witdth ="400px">
+<h3>Technologies Used</h3>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+React
+React Bootstrap
+Next.js
+MUI 
+Tailwind CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img src="/My Auto Bag/my-app/public/images/app3.jpeg"  witdth ="400px">
+<h3>Contributors</h3>
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# MY-AUTO-BAG
+Yavuz Selim CELIK
+Kamuran OZKAN
+A.Halide KARADAG
+Fatih ARZU
+Ebubekir OZKAN
